@@ -1,0 +1,15 @@
+C:\Users\ozoezi stanley c\source\repos\Students Registry DEMO\Students Registry DEMO\obj\Debug\net6.0\Students Registry DEMO.csproj.AssemblyReference.cache
+C:\Users\ozoezi stanley c\source\repos\Students Registry DEMO\Students Registry DEMO\obj\Debug\net6.0\Students Registry DEMO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozoezi stanley c\source\repos\Students Registry DEMO\Students Registry DEMO\obj\Debug\net6.0\Students Registry DEMO.AssemblyInfoInputs.cache
+C:\Users\ozoezi stanley c\source\repos\Students Registry DEMO\Students Registry DEMO\obj\Debug\net6.0\Students Registry DEMO.AssemblyInfo.cs
+C:\Users\ozoezi stanley c\source\repos\Students Registry DEMO\Students Registry DEMO\obj\Debug\net6.0\Students Registry DEMO.csproj.CoreCompileInputs.cache
+C:\Users\ozoezi stanley c\source\repos\Students Registry DEMO\Students Registry DEMO\bin\Debug\net6.0\Students Registry DEMO.exe
+C:\Users\ozoezi stanley c\source\repos\Students Registry DEMO\Students Registry DEMO\bin\Debug\net6.0\Students Registry DEMO.deps.json
+C:\Users\ozoezi stanley c\source\repos\Students Registry DEMO\Students Registry DEMO\bin\Debug\net6.0\Students Registry DEMO.runtimeconfig.json
+C:\Users\ozoezi stanley c\source\repos\Students Registry DEMO\Students Registry DEMO\bin\Debug\net6.0\Students Registry DEMO.dll
+C:\Users\ozoezi stanley c\source\repos\Students Registry DEMO\Students Registry DEMO\bin\Debug\net6.0\Students Registry DEMO.pdb
+C:\Users\ozoezi stanley c\source\repos\Students Registry DEMO\Students Registry DEMO\obj\Debug\net6.0\Students Registry DEMO.dll
+C:\Users\ozoezi stanley c\source\repos\Students Registry DEMO\Students Registry DEMO\obj\Debug\net6.0\refint\Students Registry DEMO.dll
+C:\Users\ozoezi stanley c\source\repos\Students Registry DEMO\Students Registry DEMO\obj\Debug\net6.0\Students Registry DEMO.pdb
+C:\Users\ozoezi stanley c\source\repos\Students Registry DEMO\Students Registry DEMO\obj\Debug\net6.0\Students Registry DEMO.genruntimeconfig.cache
+C:\Users\ozoezi stanley c\source\repos\Students Registry DEMO\Students Registry DEMO\obj\Debug\net6.0\ref\Students Registry DEMO.dll
